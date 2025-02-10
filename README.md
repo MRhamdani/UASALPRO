@@ -6,7 +6,8 @@
 
 <summary>Table of Content</summary>
 # About The Project
-[![Product Name Screen Shot][product-screenshot]]("https://unsplash.com/illustrations/a-blue-and-white-icon-of-a-slot-machine-imj0DtMw5eY")
+
+[![Product Name Screen Shot][product-screenshot]]("https://unsplash.com/photos/slot-machine-displaying-three-seven-_68ATDXuBLo")
 
 
 **Kenapa Membuat Game Slot Machine?**
